@@ -1,3 +1,6 @@
+body{
+    background-color: aquamarine;
+}
 .cell{
     width: 75px;
     height: 75px;
